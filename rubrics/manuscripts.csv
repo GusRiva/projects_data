@@ -1,6 +1,6 @@
-Sigla,Manuscrito,Fecha,Fecha-med,Lugar,HB-Minnereden,,
+Sigla,Manuscrito,Fecha,Fecha-med,Lugar,HB-Minnereden,Alt_names,Comment
 cgm16,"Munich, Staatsbibliothek, cgm 16",1284,1284,bairisch,,,
-W2705,"Wien, Österr. Nationalbibl., Cod 2705",1275-1300,1285,bairisch,,Wiener Kleinepikhandschrift,No tiene rúbricas
+W2705,"Wien, Österr. Nationalbibl., Cod 2705",1275-1300,1285,bairisch,,Wiener Kleinepikhandschrift,No_rubrics
 ber1430,"Berlin, Staatsbibliothek, mgo 1430",1290-1300,1295,bairisch,,,
 Cpg352,"Heidelberg, cpg 352",1300,1300,moselfränkisch,,Passional,
 Bodm72,"Cologny-Genf, Biblioteca Bodmeriana, 72",1300-25,1315,südl.mitteldeutsch-bairs,,Kalocsa Codex,
@@ -14,8 +14,8 @@ Leone,"Munich, Universitätsbibliothek, 2° Cod. ms. 731",1345-1354,1350,ostfrä
 W2931,"Wien, Österr. Nationalbibl., Cod 2931",1350,1350,bairisch,,,
 Fra1,"Frankfurt, Universitätsbibliothek, Ms. Germ. qu. 2",1370-80,1375,rheinfr.,,,
 W2885,"Wien, Österreiche Nationalbibliothek, Codex Vindobonensis 2885",1393,1393,Innsbruck,,,
-Cpg358,"Heidelberg, cpg 358",1400,1400,niederallemanisch,,No tiene rubricas,
-Neid,Privatbesitz Wolfgang Christoph Freiherr von Velderndorf zum Neidenstein,1402,1402,,,Neidensteiner Handschrift (verschollen),
+Cpg358,"Heidelberg, cpg 358",1400,1400,niederallemanisch,,,No_rubrics
+Neid,Privatbesitz Wolfgang Christoph Freiherr von Velderndorf zum Neidenstein,1402,1402,,,Neidensteiner Handschrift,lost
 Kn2,Köln Historisches Archiv der Stadt Best. 7020,1410-1420,1415,niederfr.,Kn2,,
 Cpg359,"Heidelberg, cpg 359",1420,1420,niederallemanisch,,,
 LG78,"Strasbourg, L germ 78",1428,1428,mittelfränkisch,,,
@@ -23,7 +23,7 @@ Don104,"Karlsruhe, Landesbibliothek, Codex Donauschingen 104",1430,1430,alemanis
 Ka408,Karlsruhe BLB 408,1430-35,1430,Schw-Bair-Ostfr,Ka7,,
 Br02,"Bremen, Staats- und Universitätsbibl., msb 0042-02",1425-1450,1435,elsässisch,,,
 Dr68,"Dresden, Landesbibliothek, Mscr. M 68",1447,1447,ostschwäbisch,,,
-Don93,"Karlsruhe, Landesbibliothek, Codex Donauschingen 93",1448,1448,nordbairisch,,No tiene rubricas,
+Don93,"Karlsruhe, Landesbibliothek, Codex Donauschingen 93",1448,1448,nordbairisch,,,No_rubrics
 M319,"München, Staatsbibl., Cgm 319",1450,1450,nordbairisch,,,
 M379,"Munich, Staatsbibliothek, cgm 379",1454,1454,ostschwäbisch,,Augsburger Liederbuch,
 FB32001,"Innsbruck, Landesmuseum Ferdinandeum, Cod. FB 32001",1456,1456,Bairisch-österreichis,,,
@@ -40,8 +40,8 @@ Nu4028(2),"Nürnberg, Germanisches Nationalmuseum, Hs. 4028 (olim Hs. 4028 + 182
 Cpg313,"Heidelberg, cpg 313",1478,1478,niederallemanisch,,,
 Cpg326,"Heidelberg, cpg 326",1479,1479,mittelbairisch,,,
 Aheld,"Wien, Österr. Nationalbibl., Cod. Ser. nova 2663",1510,1510,südbairisch,,Ambraser Heldenbuch,
-SN2593,"Wien, Österr. Nationalbibl., Cod. Ser. nova 2593",1500-15,1510,,,Herzmaere unical,
+SN2593,"Wien, Österr. Nationalbibl., Cod. Ser. nova 2593",1500-15,1510,,,,
 Ka86,Karlsruhe BLB Cod St. Georgen 86,1500-50,1525,schwäbisch niederalemanisch,,,
 M5919,"Munich, Staatsbibliothek, cgm 5919",1500-50,1525,,,,
-ber488,"Berlin, Staatsbibl., mgf 488",1530,1530,,,Agregar si consigo archivo,
+ber488,"Berlin, Staatsbibl., mgf 488",1530,1530,,,,Not added yet
 W10100,"Wien, Österr. Nationalbibl., Cod 10100a",1645,1645,österreichisch,,,
